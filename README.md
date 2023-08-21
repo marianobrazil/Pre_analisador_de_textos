@@ -1,4 +1,4 @@
-# Reordenador-de-textos
+# Pre_analisador_de_textos
 Programa em Java para realizar a etapa de pré-processamento de um texto a ser analisado como dígrafo pela ferramenta de software livre Gephi. O programa deverá aceitar uma lista de nomes de arquivos do tipo texto simples (.txt) e, para cada um deles, gravar uma saída no formato .csv contendo listas de adjacências indicando sucessão de palavras para posterior construção dos dígrafos, como descrito a serguir:
 
 • cada palavra é um nó único do dígrafo (início de uma lista de adjacência);
